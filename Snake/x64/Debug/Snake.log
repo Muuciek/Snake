@@ -1,0 +1,13 @@
+﻿  GameState.cpp
+p:\github\snake\snake\src\states\cpp\gamestate.cpp(161): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+p:\github\snake\snake\src\states\cpp\gamestate.cpp(298): warning C4244: 'initializing': conversion from '_Rep' to 'int', possible loss of data
+          with
+          [
+              _Rep=std::chrono::system_clock::rep
+          ]
+p:\github\snake\snake\src\states\cpp\gamestate.cpp(308): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+  Snake.vcxproj -> P:\GitHub\Snake\x64\Debug\Snake.exe
