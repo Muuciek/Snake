@@ -9,7 +9,7 @@
 
 namespace hgw
 {
-	namespace fs = std::experimental::filesystem;
+	namespace fs = std::filesystem;
 
 	MenuState::MenuState(GameDataRef data) : _data(data)
 	{
